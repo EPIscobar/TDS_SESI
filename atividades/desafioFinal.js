@@ -22,4 +22,4 @@ for(let i = 0; i < 6; i++){
 
 console.log(`Relatorio da loja:
 cliente ${clienteNome} processou um pedido de R${processarVenda(valorTotal, possuiCupom)}
-Itens restantes no estoque: ${estoque[0]}`);
+Itens restantes no estoque: ${estoque}`);
